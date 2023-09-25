@@ -116,7 +116,7 @@ switches.addEventListener('change', (event) => {
 });
 
 var themeId = localStorage.getItem("theme");
-if(themeId=="") {themeId="bg"}
+if(themeId=="") {themeId="d"}
 
 document.getElementsByClassName("td")[0].value = themeId;
 
