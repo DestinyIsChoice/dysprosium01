@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
   const appsList = [
     {
-      name: "[!] Issues caused on this page may be due to GoGuardian! Click here to tab to Google Classroom [!]",
+      name: "Tab to Google Classroom",
       link: "https://classroom.google.com/",
       image: "/images/icons/google.webp",
       categories: ['all'],
