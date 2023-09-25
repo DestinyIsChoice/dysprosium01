@@ -12,7 +12,7 @@ body {
   width: 145px;
   transition: all 0.2s ease;
   cursor: pointer;
-  background-image: linear-gradient(to right, rgb(171, 217, 255) , rgb(171, 255, 178));
+  background: #4545459e;
   border-radius: 10px;
   padding-left: 10px;
   padding-right: 10px;
@@ -65,7 +65,7 @@ body {
 	  padding: 20px;
 	  width: 550px;
 	  border-radius: 5px;
-	  background-image: linear-gradient(to right, rgb(171, 217, 255) , rgb(171, 255, 178));
+	  background: #353535;
 	  text-align: center;
 	  font-size: 24px;
 	  border: none;
@@ -76,7 +76,7 @@ body {
 	select {
 		padding: 20px;
 		border-radius: 5px;
-		background-image: linear-gradient(to right, rgb(171, 217, 255) , rgb(171, 255, 178));
+		background: #353535;
 		color: white;
 		font-size: 20px;
 		border: 0px;
