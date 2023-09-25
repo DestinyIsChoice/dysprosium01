@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: interstellar
+    name: hsproxy
     env: docker
     plan: free
