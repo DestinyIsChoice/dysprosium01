@@ -22,7 +22,11 @@ body {
   backface-visibility: visible;
   transition: 0.35s ease;
   z-index: 100;
-  backdrop-filter: blur(10px);
+  backdrop-filter: blur(30px);
+  border-color: black;
+  border: solid .5vw;
+  outline: none;
+  color: black;
 }
 
 .fixed-nav-bar .logo:hover {
