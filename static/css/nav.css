@@ -8,11 +8,11 @@ body {
 
 .fixed-nav-bar {
   position: fixed;
-  top: 0;
+  top: 15;
   letter-spacing: 2px;
   font-size: 22px;
-  left: 0;
-  right: 0;
+  left: 15;
+  right: 15;
   min-height: 13vh;
   padding: 0 25px;
   box-sizing: border-box;
