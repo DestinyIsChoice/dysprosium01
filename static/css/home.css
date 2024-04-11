@@ -8,7 +8,7 @@ body {
 	position: relative;
 	top: -10vh;
 	font-size: 9vh;
-	color: black;
+	color: rgba(255, 63, 255);
 	font-family: "Inter", sans-serif;
 	text-align: center;
 	text-transform: uppercase;
@@ -62,7 +62,7 @@ body {
     border-color: black;
     border-radius: 15px;
     border: solid .5vw;
-    box-shadow: 0 0 15px 2px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 15px 2px rgba(255, 0, 255, 0.75);
     backface-visibility: visible;
     transition: 0.35s ease;
     z-index: 100;
