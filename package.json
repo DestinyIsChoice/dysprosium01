@@ -1,7 +1,7 @@
 {
-  "name": "mathematics",
-  "version": "5.0.0",
-  "description": "https://discord.gg/interstellar",
+  "name": "dysprosiumhelper",
+  "version": "1.0.0",
+  "description": "helper for dysprosium",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
