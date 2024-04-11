@@ -2,7 +2,7 @@
     color:black;
 }
 body {
-    background-image: linear-gradient(to right, rgb(171, 217, 255) , rgb(171, 255, 178));
+    background-image: linear-gradient(to right, rgb(31, 31, 31) , rgb(31, 31, 31));
 }
 h2 {
     color:black;
@@ -15,7 +15,7 @@ h2 {
 }
 .searchbar {
     background-color: transparent;
-    border-color: black;
+    border-color: rgba(255, 63, 255);
     border-radius: 2vw;
     border: solid .5vw;
     color: black
